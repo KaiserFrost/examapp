@@ -36389,7 +36389,7 @@ this.ct()
 this.il()}}
 A.G0.prototype={
 L(a){var s=null
-return new A.wN(B.DH,"ExamTopics",A.rz(s,s,B.fH,s,A.ar_(A.aF())),s)}}
+return new A.wN(B.DH,"ExamApp",A.rz(s,s,B.fH,s,A.ar_(A.aF())),s)}}
 A.w2.prototype={
 aj(){return new A.AM($.amS(),A.b([],t.Dq))}}
 A.AM.prototype={
